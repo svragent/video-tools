@@ -14,4 +14,4 @@ Nástroje pro práci s videem a zvukem, které jsem postavil pro televizní prov
 
 ## Autor
 
-Jan Červenák – efektivita a automatizace procesů, vývoj nástrojů s pomocí AI. Deset let v Barrandov Televizní Studio (střih, správa systému Avid, vedení oddělení upoutávek).
+Jan Červeňák – efektivita a automatizace procesů, vývoj nástrojů s pomocí AI. Deset let v Barrandov Televizní Studio (střih, správa systému Avid, vedení oddělení upoutávek).
