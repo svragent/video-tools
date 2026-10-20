@@ -2,6 +2,8 @@
 
 Aplikace, která ve videích a zvukových souborech najde použitou hudbu a vypíše název skladby, interpreta, vydavatele, rok a délku použití. Hodí se na hudební výkazy (např. pro OSA), kde je potřeba ke každému pořadu nebo upoutávce uvést, jaká hudba v něm zazněla a jak dlouho.
 
+![Rozpoznávání hudby](img/screenshot.jpg)
+
 ## Co umí
 
 - **Vysílací MXF s 8 zvukovými stopami:** rozdělí je, změří energii každé stopy a dál pracuje jen se stopami, kde něco hraje.
