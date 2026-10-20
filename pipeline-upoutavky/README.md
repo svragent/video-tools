@@ -2,13 +2,13 @@
 
 > Zdrojový kód tohoto nástroje není veřejný. Rád ho ukážu na pohovoru.
 
-Desktopová aplikace, která v ostrém provozu televize automatizovala výrobu upoutávek. Pokrývala práci odpovídající **400+ hodinám měsíčně**.
+Desktopová aplikace, která v ostrém provozu televize automatizovala výrobu upoutávek. Pokrývala práci odpovídající **400+ hodinám měsíčně**, kterou do té doby dělali střihači ručně.
 
 ![Hlavní okno](img/hlavni-okno.jpg)
 
 ## Problém
 
-Televize vysílá každý den desítky upoutávek na několika kanálech. Ke každé je potřeba připravit verzi s konkrétním dnem a časem vysílání, připojit správné video a zvuk, doplnit titulky a vyexportovat ji ve vysílacím formátu.
+Televize vysílá každý den desítky upoutávek na několika kanálech. Ke každé je potřeba připravit verzi s konkrétním dnem a časem vysílání, připojit správné video a zvuk, doplnit titulky a vyexportovat ji ve vysílacím formátu. Střihači to dřív dělali ručně ve střihovém programu, upoutávku po upoutávce.
 
 ## Jak to funguje
 
@@ -41,13 +41,13 @@ Samostatný krok umí dopárovat zvuk k už hotovým videím.
 - Python, uživatelské rozhraní v tkinteru
 - FFmpeg a ffprobe (přibalené v exe)
 - Čtení dat z Excelu
-- Modulární stavba z desítek souborů (zpracování videa, párování, text procesor, konfigurace, paměť projektu)
+- Rozsáhlý projekt rozdělený do více než 50 modulů (zpracování videa, párování, text procesor, konfigurace, paměť projektu)
 - Sestaveno do exe pro Windows (PyInstaller)
 
 ## Výsledek
 
 - Běžel v ostrém provozu televize.
-- Pokrýval práci odpovídající 400+ hodinám měsíčně.
+- Pokrýval práci odpovídající 400+ hodinám měsíčně, kterou předtím dělali střihači ručně.
 
 ## O vzniku
 
