@@ -4,6 +4,8 @@ Desktopová aplikace, která z vodorovného videa (16:9) udělá svislé video 9
 
 Vznikl pro převod televizního materiálu na sociální sítě. Ruční ořez ve střihovém programu trvá dlouho, protože se rámeček musí posouvat za lidmi v každém záběru. Reels Cropper většinu té práce udělá automaticky a zbytek se doladí ručně.
 
+![Reels Cropper](img/screenshot.jpg)
+
 ## Co umí
 
 - **Automatická detekce střihů:** najde střihy ve videu a ke každému záběru založí keyframe.

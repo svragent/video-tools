@@ -7,8 +7,9 @@ Nástroje pro práci s videem a zvukem, které jsem postavil pro televizní prov
 | Nástroj | Co dělá |
 |---|---|
 | [Reels Cropper](reels-cropper/) | Převede vodorovné video na svislé 9:16. Sám najde střihy a obličeje, rámeček jde animovat keyframy, export přes FFmpeg. |
-
-Další nástroje přibudou.
+| [Whisper – kontrola upoutávek](whisper-kontrola-upoutavek/) | Přepíše konec upoutávek pomocí AI (Whisper) a zkontroluje, že sedí den a čas vysílání. |
+| [Rozpoznávání hudby](rozpoznavani-hudby/) | Najde použitou hudbu ve vysílacích MXF přes ACRCloud API a spočítá délku každé skladby. Fronta a časovač. |
+| [Stopáž MXF](stopaz-mxf/) | Vypíše stopáž všech MXF ve složce ve formátu MM:SS:FF. |
 
 ## Autor
 
