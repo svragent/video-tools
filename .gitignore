@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.exe
+build/
+dist/
+*.spec
+config.json
+models/
+ffmpeg/
+*.wav
+*.mxf
+*.mp4
+*.mov
