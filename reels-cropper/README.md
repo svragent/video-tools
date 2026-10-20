@@ -52,4 +52,4 @@ Hotová verze pro Windows (.exe) je v sekci [Releases](../../releases).
 
 ## O vzniku
 
-Nástroj jsem navrhl a postavil v roce 2026 s pomocí AI (Claude). Zadání, testování na reálném materiálu a ladění jsou moje, kód jsem generoval a upravoval s AI.
+Nástroj jsem navrhl a postavil v roce 2025 s pomocí AI (Claude). Zadání, testování na reálném materiálu a ladění jsou moje, kód jsem generoval a upravoval s AI.

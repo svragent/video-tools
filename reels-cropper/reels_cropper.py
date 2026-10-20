@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Reels Cropper v1.0 - Video Crop Tool for Social Media by Jan Cervenak 2026 (9:16)
+Reels Cropper v1.0 - Video Crop Tool for Social Media by Jan Cervenak 2025 (9:16)
 Creates vertical videos from horizontal footage with keyframe animation
 
 Requirements:

@@ -2,7 +2,7 @@
 
 Hromadná kontrola televizních upoutávek pomocí rozpoznávání řeči (OpenAI Whisper).
 
-Upoutávka na konci říká, kdy pořad běží („v úterý ve 20:05 na TV Barrandov“). Když se na to při výrobě spletlo, šla do vysílání chybná informace. Ruční poslech desítek upoutávek denně je zdlouhavý, tak to dělá tento skript.
+Vznikl pro kontrolu stažených upoutávek. Upoutávka na konci říká, kdy pořad běží („v úterý ve 20:05 na TV Barrandov“), a skript ověří, že to sedí s údaji v názvu souboru, místo aby se každá musela pouštět a poslouchat ručně.
 
 ## Co dělá
 
