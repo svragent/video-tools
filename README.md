@@ -6,7 +6,7 @@ Nástroje pro práci s videem a zvukem, které jsem postavil pro televizní prov
 
 | Nástroj | Co dělá |
 |---|---|
-| [Pipeline Video Generator](pipeline-upoutavky/) | Automatická výroba TV upoutávek: data z Excelu, párování videa a zvuku, titulky, export do XDCAM. 400+ hodin práce měsíčně. *(jen popis, kód není veřejný)* |
+| [Pipeline Video Generator](pipeline-upoutavky/) | Automatická výroba TV upoutávek: data z Excelu, párování videa a zvuku, titulky, export do XDCAM. 100 hodin práce měsíčně. *(jen popis, kód není veřejný)* |
 | [Reels Cropper](reels-cropper/) | Převede vodorovné video na svislé 9:16. Sám najde střihy a obličeje, rámeček jde animovat keyframy, export přes FFmpeg. |
 | [Whisper – kontrola upoutávek](whisper-kontrola-upoutavek/) | Přepíše konec upoutávek pomocí AI (Whisper) a zkontroluje, že sedí den a čas vysílání. |
 | [Rozpoznávání hudby](rozpoznavani-hudby/) | Najde použitou hudbu ve vysílacích MXF přes ACRCloud API a spočítá délku každé skladby. Fronta a časovač. |

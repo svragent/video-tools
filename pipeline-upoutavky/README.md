@@ -2,7 +2,7 @@
 
 > Zdrojový kód tohoto nástroje není veřejný. Rád ho ukážu na pohovoru.
 
-Desktopová aplikace, která v ostrém provozu televize automatizovala výrobu upoutávek. Pokrývala práci odpovídající **400+ hodinám měsíčně**, kterou do té doby dělali střihači ručně.
+Desktopová aplikace, která v ostrém provozu televize automatizovala výrobu upoutávek. Pokrývala práci odpovídající **100 hodinám měsíčně**, kterou do té doby dělali střihači ručně.
 
 ![Hlavní okno](img/hlavni-okno.jpg)
 
@@ -47,7 +47,7 @@ Samostatný krok umí dopárovat zvuk k už hotovým videím.
 ## Výsledek
 
 - Běžel v ostrém provozu televize.
-- Pokrýval práci odpovídající 400+ hodinám měsíčně, kterou předtím dělali střihači ručně.
+- Pokrýval práci odpovídající 100 hodinám měsíčně, kterou předtím dělali střihači ručně.
 
 ## O vzniku
 
